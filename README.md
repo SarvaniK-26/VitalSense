@@ -1,9 +1,9 @@
 # VitalSense
 
-# Dataset Description 
-## This is a dataset from the UCI Machine Learning Repository. The dataset includes various attributes such as age, sex, cholesterol levels, blood pressure, and elctrocardiographic measurements. 
+## Dataset Description 
+### This is a dataset from the UCI Machine Learning Repository. The dataset includes various attributes such as age, sex, cholesterol levels, blood pressure, and elctrocardiographic measurements. 
 
-## A broader description of the various variables 
+#### A broader description of the various variables 
 
 # Variable  	Role	  Type		    Description	             Units	
 # age	        Feature	  Integer			                     years	
